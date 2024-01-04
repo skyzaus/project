@@ -3,11 +3,11 @@ display: flex;
 justify-content: center;
 align-items: center;
 height: 100vh;
-    background-color: darkblue;
+    background-color: gray;
 }
 
 h1 {
-font-size: 15rem;
+font-size: 20rem;
 
 
 }
